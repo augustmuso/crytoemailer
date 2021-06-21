@@ -1,0 +1,7 @@
+requests==2.25.1
+python_binance==0.7.9
+bta_lib==1.0.0
+pandas==1.2.1
+numpy==1.20.1
+APScheduler==3.7.0
+binance==0.3
