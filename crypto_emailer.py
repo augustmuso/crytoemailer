@@ -27,8 +27,8 @@ from decimal import Decimal
 
 # api key and the api secret
 
-api_key='t4tXtY28ugkytdFlSKKHaRzt2IQtfe0jkujOpA0Yyt9QM9z4atPW1SS9LUz6qHtl'
-api_secret='p7plNd2xy1H899B7ckCfxBUZ5xI2OtmUXnA5QzGmd26gVBJxDuS21PP67Ouf0DUe'
+api_key='api key'
+api_secret='secret key'
 
 # puting key and secret into client
 
